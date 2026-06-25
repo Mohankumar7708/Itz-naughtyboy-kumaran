@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohankumar J (@Itz-naughtyboy-kumaran)
+# 👋 Hi, I’m Mohankumar J
 
 🎓 I'm a Diploma holder in Computer Engineering from Ramakrishna Mission Polytechnic College.  
 💻 Currently working as an **Diploma Engineering Fellowship** at **TiHAN, IIT Hyderabad**, where I design and develop UI for Web, Desktop, and Android applications.  
